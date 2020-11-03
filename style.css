@@ -1,0 +1,30 @@
+body{
+    background-image:url('Gaming.jpg');
+    background-size:cover;
+    background-attachment:fixed;
+}
+.nav{
+    height:50px;
+    background-color:black;
+    text-align:center;
+}
+.nav div{
+    display:inline-block;
+    position:absolute;
+    text-align:center;
+    padding:15px;
+    font-size:30px;
+    color:white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.nav ul{
+    position:absolute;
+    right:5px;
+}
+.nav ul li {
+display:inline-block;    
+}
+.nav ul li a{
+    color:white;
+    padding:5px;
+}

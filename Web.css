@@ -1,0 +1,41 @@
+body{
+    background-image:url('Gaming.jpg');
+}
+.header{
+    background-color:gold;
+    color:royalblue;
+    text-align:center;
+    padding:10px
+}
+.nav_menu{
+    overflow:hidden;
+    background-color:gold;
+}
+.nav_menu a{
+    float:right;
+    display:block;
+    color:royalblue;
+    padding:10px;
+}
+.nav_menu a:hover{
+    background-color:royalblue;
+    color:gold;
+}
+.coloumnA, .coloumnB, .coloumnC
+{
+    float:left;
+    width:30%;
+    color:gold;
+    padding:15px;
+    text-align:justify;
+}
+.footer
+{
+    padding:15px;
+    text-align:center;
+}
+.footer a
+{
+background-color:gold;
+color:royalblue;
+}
